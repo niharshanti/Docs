@@ -1,0 +1,158 @@
+tblStudent---Student info
+------------- 
+Column List- 
+StudentID,
+StudentName, 
+SutdentPermanentAdderess,
+StudentTemporaryAdderess,
+FatherName,
+MotherName,
+
+tblUniversity
+--------------
+UniversityID,
+UniversityName,
+UniversityStatus,
+id1,
+id2,
+id3
+
+
+tblInstistue
+-------------
+CollegeID,
+CollegeName,
+College Address,
+State,
+District,
+City,
+Pin,
+Web,
+Phone,
+Mobile,
+University,
+Status,
+ID1,
+ID2,
+ID3
+
+tblInstituteType
+----------------
+InstituteTypeID,
+InstituteName,
+ID1,
+ID2,
+ID3
+
+
+tblSubjects
+--------------
+SubjectID,
+SubjectName,
+ID1,
+ID2,
+ID3
+
+tblSubjectStream
+----------------
+SubStreamID,
+SubStreamName,
+ID1,
+ID2,
+ID3
+
+tblLocatiobn
+-------------
+LocationaID,
+LocationNme
+
+tblStudentClass
+----------------
+StdClassID,
+StdClassName,
+ID1,
+Id2,
+Id3
+
+tblStudentMarks
+----------------
+Will fetch details from Studentrelatedtable
+
+
+tblStatesOfIndia
+------------------
+stid
+stcode
+stshtname
+stname
+stcapital
+
+
+tblDistricts
+--------------------
+Dist id (comibination of statecode and distcode)
+dist state
+dist code
+disthq -district head quarter
+distname
+
+
+tblCollegeCriteria
+--------------------------
+college id
+stream id
+MinScoreY-1
+Max Score Y-1
+MinScoreY-2
+Max Score Y-2
+MinScoreY-3
+Max Score Y-3
+MinScoreY-4
+Max Score Y-4
+MinScoreY-5
+Max Score Y-5
+MinAvg
+MaxAvg
+
+tblAspiration
+-------------------
+AspID
+aspname
+Degree1
+Degree1Name
+Degree1MinScore
+Degree2
+Degree2MinScore
+Degree2Name
+Degree3
+Degree3MinScore
+Degree3Name
+Degree4
+Degree4MinScore
+Degree4Name
+Degree5
+Degree5MinScore
+Degree5Name
+Degree6
+Degree6MinScore
+Degree6Name
+Degree7
+Degree7MinScore
+Degree7Name
+Attr1 (Attribute)
+Attr1name
+AttMinScore 1
+Attr2
+Attr2name
+AttMinScore 2
+Attr 3
+Attr3name
+AttMinScore 3
+Attr 4
+Attr4name
+AttMinScore 4
+Attr 5
+Attr5name
+AttMinScore 5
+Remarks
+
